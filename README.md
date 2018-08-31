@@ -1,3 +1,3 @@
 # teamEC
-QLANQ
+GLANQ
 URL:http://www.internousdev.com/glanq/
